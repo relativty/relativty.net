@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.relativty.net"><img src="https://github.com/AdmiraalHugo/relativty.net/blob/master/img/homepage.png" width="80%"></a>
+  <a href="https://www.relativty.net"><img src="https://github.com/AdmiraalHugo/relativty.net/blob/master/homepage.png" width="80%"></a>
 </h1>
 
 # Why relativty.net? 📖
@@ -16,5 +16,5 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.forum.relativty.net"><img src="https://github.com/AdmiraalHugo/relativty.net/blob/master/img/forum-homepage.png" width="80%"></a>
+  <a href="https://www.forum.relativty.net"><img src="https://github.com/AdmiraalHugo/relativty.net/blob/master/forum-homepage.png" width="80%"></a>
 </h1>
