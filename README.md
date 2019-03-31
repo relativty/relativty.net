@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <br>
-  <a href="wiki.relativty.net"><img src="https://github.com/AdmiraalHugo/relativty.net/blob/master/wiki.png" width="80%"></a>
+  <a href="http://wiki.relativty.net"><img src="https://github.com/AdmiraalHugo/relativty.net/blob/master/wiki.png" width="80%"></a>
 </h1>
 
 # Why wiki.relativty.net? 📖
